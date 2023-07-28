@@ -9,6 +9,32 @@ hr {
     border-style: dotted none none;
     border-color: #E3CAA5;
     border-width: 8px;
-    height: 2px;
+    height: 30%;
     width: 6%;
+}
+
+h1 {
+    color: #ca926afd ;
+    font-family: ;
+ 
+}
+
+h2{
+    color: #997053fd;
+}
+
+h3{
+    color: #997053fd;
+}
+
+h4{
+    color: #997053fd;
+}
+
+a:link{
+    color: #bd6d37
+}
+
+a:visited{
+    color: #a17e45
 }
